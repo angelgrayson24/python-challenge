@@ -30,7 +30,7 @@ The greatest increase in profits (date and amount) over the entire period
 
 The greatest decrease in profits (date and amount) over the entire period 
 
-with tese calculations I received these results that 
+with these calculations I received these results that 
 
 Total Months: 86
 Net Total: $22564198
